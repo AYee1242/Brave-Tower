@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Chest
+comment0.text=\n\ The\ chest\ enemy\ can\ move\ 1\ space\ in\ the\ horizontal/vertical\ direction.\n\ It\ will\ only\ move\ after\ its\ transformation\ or\ after\ it\ is\ frozen.\n\ Transformation\ occurs\ when\ the\ player\ is\ within\ 2\ blocks\ of\ the\ chest.\n\ \n\ @author\ Alexander\ \n\ @version\ January\ 2019\n
+comment1.params=y\ x
+comment1.target=Chest(int,\ int)
+comment1.text=\n\ Spawns\ a\ chestmonster\ into\ the\ level.\n\ @param\ y\ The\ Y\ grid\ placement.\n\ @param\ x\ The\ X\ grid\ placement.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Slime\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ addedToWorld()
+numComments=4

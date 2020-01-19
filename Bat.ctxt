@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Bat
+comment0.text=\n\ The\ bat\ enemy\ can\ move\ up\ to\ 2\ spaces\ in\ the\ horizontal/vertical\ direction.\n\ In\ addition,\ it\ can\ fly\ over\ walls\n\ \n\ @author\ Alexander\ \n\ @version\ January\ 2019\n
+comment1.params=y\ x
+comment1.target=Bat(int,\ int)
+comment1.text=\n\ Spawns\ a\ bat\ into\ the\ level.\n\ @param\ y\ The\ Y\ grid\ placement.\n\ @param\ x\ The\ X\ grid\ placement.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Slime\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ addedToWorld()
+numComments=4
