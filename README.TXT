@@ -1,18 +1,5 @@
 ------------------------------------------------------------------------
-Kitchen Fever is a cooking simulation that depicts the strenuous environment of a kitchen. 
-The simulation involves four workers, each with their very own tasks and duties. 
-Two of the chefs are responsible for cutting and cooking the meat and vegetables.
-Another chef is responsible for plating the vegetables and meat components. 
-The final chef is on dish duty and also plates the grain component. 
-Each chef works on their own and may be completing different dishes from each other.
-The user is given control over the cooking and cutting time of the chefs as well as what dishes the chefs must create. 
-There are 2 different types of ingredients for each food group bringing a total 
-of 8 different dishes that the user can choose from. 
-Finally, the chefs run the risk of burning the food if it is left on the stove for too long.
-When this happens, the chefs will run sporadically until the entire restaurant burns down. </p>
+Brave Tower is a turn based dungeon crawler coded where the player traverses up a tall tower in order to steal treasure from a ferocious beast. All of the animations and images are original and created on pixelartsolely for this game. The player and the enemies travel based on a coordinate system. The player is able to travel two spaces in any direction laterally. Like chess, if an enemy is within the range of the player, the player can click on the enemy to kill them. In addition, if the player faces the enemy while the enemy attacks them, they can block the attack up to three times. There are a total of 8 enemies and a boss in the game. Each enemy has their own unique ability. For instance, the mirror enemy will switch spots with the player if the hero is within its line of site. The enemies will always choose a path that will bring them closer to the player as their main goal is to kill the hero. In addition, players will also have to worry about their environment as there are deadly spikes on the ground. Players who successfully exit the tower with the loot will have their time recorded and displayed in the end screen if their time is one of the top five fastest times. 	               
 ------------------------------------------------------------------------
 
-PROJECT TITLE: Kitchen Fever
-PURPOSE OF PROJECT: To make a cool simulation
 HOW TO START THIS PROJECT: Run program on Greenfoot.
-AUTHORS: Alexander Yee, Daniel Tan, Zhongchi Li, Justin Huynh and Deston Wong
